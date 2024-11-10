@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.webflow.io	TRUE	/	FALSE	1999999999	__cf_bm	VbqvNdwkUTC2Bu0OOqCf9XqMFwnuizT5RMQuVK73_40-1731245782-1.0.1.1-l4WsI1uNrv9ZTiQlLsQ4LDew_0Lmny9lpePVe6LTSwd6OCaCYG_0y1CCc7fH8oO8_Hz6MuWlrE2fy3Ud1F4wdQ
+.webflow.io	TRUE	/	FALSE	1999999999	_cfuvid	iK6UGajpBIkykOyAThYLPa0DtvBqhVGXmpxxHVaeoXQ-1731245782889-0.0.1.1-604800000
+medcare-template.webflow.io	TRUE	/	FALSE	1999999999	SameSite	None
+.prod.website-files.com	TRUE	/	FALSE	1999999999	__cf_bm	_pGNrizuMHHb_tsIP1jqUUdoH3jsQPyRsZfEzKPBJKg-1731245814-1.0.1.1-q0gWpPX78IU7vfXXAqjagGaW1UkYRxCm1hEhxM7_OVUxFHGZ0Dz6mLrLaJI7ZOuz2NAY45kRl4f6eKDenMmrgA
+cdn.prod.website-files.com	TRUE	/	FALSE	1999999999	SameSite	None
+.website-files.com	TRUE	/	FALSE	1999999999	__cf_bm	hMuJ8pnrsQKFaEK_9_t.d6omZEvK4gUyOHyqp26yfFg-1731245823-1.0.1.1-vMIENUFls.25FSq_D5lT0Du7yIKW6FynTMmoHLoRXJEWJsK7ljy3DYgZJZiTXp8MIGkEbmOFLXpZrRkeYvLSbw
+assets-global.website-files.com	TRUE	/	FALSE	1999999999	SameSite	None
+
